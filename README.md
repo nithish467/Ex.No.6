@@ -1,6 +1,7 @@
 # Ex.No.6 AI-Assisted Programming and Debugging
 
 # Date: 08/09/2026
+# Name : NITHISHKUMAR S
 # Register no.: 212223240109
 
 # Aim:
